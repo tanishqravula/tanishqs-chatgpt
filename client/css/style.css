@@ -16,7 +16,7 @@
 } */
 
 :root {
-    --colour-1: #218d9c;
+    --colour-1: #f3ca20;
     --colour-2: #ccc;
     --colour-3: #f9fae8;
     --colour-4: #f0f0f0;
@@ -24,8 +24,8 @@
     --colour-6: #242424;
 
     --accent: #8b3dff;
-    --blur-bg: #0d0002;
-    --blur-border: #000708;
+    --blur-bg: #000000;
+    --blur-border: #000000;
     --user-input: #ecff42;
     --conversations: #ecff42;
 }
