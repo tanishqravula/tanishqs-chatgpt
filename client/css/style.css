@@ -453,7 +453,7 @@ select {
     cursor: pointer;
     user-select: none;
     background: transparent;
-    border: 1px solid #c7a2ff;
+    border: 1px solid #f3ca20;
     border-radius: var(--border-radius-1);
     width: 100%;
 }
