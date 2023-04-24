@@ -66,7 +66,7 @@ class Backend_Api:
             data = {
                 'messages': conversation,
                 'openAIApiConfig': {
-                    'key': '',
+                    'key': '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',
                     'endpoint': ''
                 }
             }
