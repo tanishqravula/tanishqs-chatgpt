@@ -98,7 +98,7 @@ class Backend_Api:
             #         'name' : 'Default (GPT-3.5)'
             #     },
             #     'messages'  : conversation,
-            #     'key'       : '',
+            #     'key'       : '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',
             #     'prompt'    : system_message
             # })
 
